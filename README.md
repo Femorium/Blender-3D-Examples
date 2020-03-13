@@ -5,7 +5,7 @@ Some .blend files for demonstration
 
 How to open .blend files:
 
-Files with the ending ".blend" can be opened with Blender 2.82 or later. 
+Files with the ending ".blend" can be opened with Blender 2.82a or later. 
 Go to https://www.blender.org/download/ and download the latest version of Blender. 
 Open the downloaded file and follow the instalation guide. 
 Open .blend files by double clicking on them. 
