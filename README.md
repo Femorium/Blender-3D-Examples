@@ -20,4 +20,4 @@ Further details on navigation can be found here: https://docs.blender.org/manual
 
 Have fun!
 
-3D models made by Paul Dyck
+- 3D models made by Paul Dyck
