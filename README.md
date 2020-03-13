@@ -19,3 +19,5 @@ For zooming in and out of the object use the mouse wheel.
 Further details on navigation can be found here: https://docs.blender.org/manual/en/latest/editors/3dview/navigate/index.html
 
 Have fun!
+
+3D models made by Paul Dyck
